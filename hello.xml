@@ -1,2 +1,1 @@
-<root><msg>Hello from master branch(different)</msg></root>
-<root><msg>Hello from GitWork branch</msg></root>
+<message>Hello from master branch</message>
